@@ -4,7 +4,7 @@ A simple Flippy Bird game built with HTML, CSS, and JavaScript. This project rep
 
 ## Demo
 
-![Flippy Bird Screenshot](background.png)
+![Flippy background](background.jpg)
 ![Flippy Bird Screenshot](bird.png)
 ![alt text](image.png)
 ## Features
